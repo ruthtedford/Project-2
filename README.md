@@ -5,5 +5,5 @@ This is a capstone project.
 * one
 * two
 * three
-[pic](http://www.vaniercollege.qc.ca/events-calendar)
+* C:\Users\handas\Desktop\normal_atlanta_skyline_01_0025.jpg
 
